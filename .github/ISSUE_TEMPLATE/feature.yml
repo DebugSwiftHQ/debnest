@@ -1,0 +1,21 @@
+name: Suggest a feature
+description: Something the Lead Engine should do for your business.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a public page. Never post a customer's name, phone number or messages here.
+        Already a client and something isn't working? Email hello@debugswift.com instead, so it reaches us privately.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would it solve?
+      description: Describe what happens with your enquiries today and where it goes wrong.
+    validations:
+      required: true
+  - type: input
+    id: business
+    attributes:
+      label: What kind of business do you run?
+      placeholder: "Clinic, salon, shop, consultancy"
