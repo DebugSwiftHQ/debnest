@@ -8,7 +8,7 @@ The most expensive bug in a service business: leads that buy elsewhere because n
 
 The Lead Engine answers, qualifies, books and logs every enquiry, while you work, sleep or take a day off.
 
-![Same enquiry, two endings](../assets/chat-demo.png)
+![Three real conversations from a demo dental clinic: a medicine question Deb won't answer, "are you a bot?", and an emergency handed straight to a person](../assets/conversations.png)
 
 ## Five things, done properly
 

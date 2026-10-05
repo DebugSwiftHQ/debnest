@@ -6,7 +6,9 @@
 
 Lead Engine runs on a business's own WhatsApp Business number. It answers every enquiry straight away, asks the questions that tell you whether a lead is worth your time, and captures a booking or callback while the lead is still warm. Your team sees every conversation in one inbox, on phone and computer.
 
-![Same enquiry, two endings: one unanswered, one answered and booked](assets/chat-demo.png)
+![The real Lead Engine inbox on desktop and phone, with a demo dental clinic's chats](assets/inbox.png)
+
+*The real product. The clinic and its customers are a demo; every reply from Deb is the engine's own.*
 
 ## What it does
 
@@ -33,7 +35,7 @@ Each rule is checked in code before a reply is sent. A reply that breaks one is 
 - **[How it works](docs/how-it-works.md):** scope, the rules, the 7-day setup, languages, handing over to a person, and when not to buy it
 - **[Changelog](CHANGELOG.md):** what changed, and when
 
-<img src="assets/phone.png" alt="The Lead Engine page on a phone" width="300">
+![Three real conversations: a medicine question Deb won't answer, "are you a bot?", and an emergency handed straight to a person](assets/conversations.png)
 
 ## Try it
 
