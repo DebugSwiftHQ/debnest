@@ -4,7 +4,7 @@ The full page, with a live demo, is at [debugswift.com/lead-engine](https://debu
 
 ## The problem it fixes
 
-The most expensive bug in a service business: leads that buy elsewhere because nobody replied. A message seen at 9:52pm and answered at 9am has usually already booked someone else.
+The most expensive bug in a service business: leads that buy elsewhere because nobody replied. Say a customer messages at 9:41pm, you see it at 9:52pm, and you answer at 9am. They booked someone else, eleven minutes after asking you.
 
 The Lead Engine answers, qualifies, books and logs every enquiry, while you work, sleep or take a day off.
 
@@ -13,8 +13,8 @@ The Lead Engine answers, qualifies, books and logs every enquiry, while you work
 ## Five things, done properly
 
 1. **Instant answer.** WhatsApp Business (or SMS or webchat where WhatsApp is weak) replies to every enquiry in under 10 seconds, 24/7, in wording you approved.
-2. **Qualifying flow.** 2 to 4 questions: what they need, when, and where. Real prospects get through; time-wasters get a polite goodbye.
-3. **Booking or callback.** Their preferred day and time, or your booking link, captured while they're still interested. You confirm.
+2. **Qualifying flow.** 2 to 4 questions: what they need, when, and where. Real prospects get through; tyre-kickers get a polite goodbye.
+3. **Booking or callback.** Their preferred day and time, or your booking link, captured while the lead is still warm. You confirm.
 4. **Nothing lost.** Every conversation in your own team inbox, on your phone and computer, with an instant notification. Export to a spreadsheet whenever you like.
 5. **One follow-up nudge.** A quiet lead gets exactly one message, just inside 24 hours. Not a drip campaign.
 
@@ -24,7 +24,7 @@ The Lead Engine answers, qualifies, books and logs every enquiry, while you work
 |---|---|
 | Instant replies on one channel, 24/7 | Website rebuilds |
 | Qualifying questions in your wording | Ad campaigns |
-| Booking link or callback capture | Several channels at once |
+| Booking link or callback capture | Multiple channels at once |
 | Every lead in your team inbox, with a phone notification | A custom "AI personality" |
 | One follow-up nudge, just inside 24 hours | Six-month roadmaps |
 | A plain-language handover, everything in your name | Anything that stops it going live in 7 days |
@@ -54,7 +54,7 @@ If the AI fails mid-conversation, your customer still gets a complete, sensible 
 |---|---|
 | 1 | **Kickoff.** We map your enquiries: the questions customers ask, the answers you give, what makes a lead worth your time. |
 | 2 to 3 | **Build.** The flow is written in your wording (greeting, questions, booking, polite goodbye) on your WhatsApp Business account. |
-| 4 to 5 | **Wiring.** Your number connected, the team inbox on your phone with notifications on, facts and safety rules set. Tested against your real past conversations. For the first days the assistant drafts and you approve. |
+| 4 to 5 | **Wiring.** Your number connected, the team inbox on your phone with notifications on, Deb's facts and safety rules set. Tested against your real past conversations. For the first days Deb drafts and you approve. |
 | 6 | **Your turn.** You try to break it. Anything that sounds off is rewritten the same day. |
 | 7 | **Live.** Real enquiries, real bookings, and a one-page handover: what it does, what it never does, who to call. |
 

@@ -4,7 +4,7 @@
 
 **Live:** https://debugswift.com/lead-engine
 
-Lead Engine runs on a business's own WhatsApp Business number. It answers every enquiry straight away, asks the questions that tell you whether a lead is worth your time, and captures a booking or callback while the customer is still interested. Your team sees every conversation in one inbox, on phone and computer.
+Lead Engine runs on a business's own WhatsApp Business number. It answers every enquiry straight away, asks the questions that tell you whether a lead is worth your time, and captures a booking or callback while the lead is still warm. Your team sees every conversation in one inbox, on phone and computer.
 
 ![Same enquiry, two endings: one unanswered, one answered and booked](assets/chat-demo.png)
 

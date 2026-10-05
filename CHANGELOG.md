@@ -27,7 +27,7 @@ What changed in the Lead Engine, newest first. Written from the history of its p
 - **Playbooks:** each business sets its own reasons to write, questions, facts and rules, with templates for clinics, shops and salons, and a "try a message" box to test them.
 - **Files, voice notes, reactions and forwarding** in the team inbox. Each photo or voice note is transcribed once.
 - A health page showing that everything is connected.
-- Nobody left unanswered: faster replies and more robust handling of busy moments.
+- Nobody left unanswered: a reply that fails part-way is picked up and finished, and replies come faster.
 
 ## September 2026: version 2 begins
 
