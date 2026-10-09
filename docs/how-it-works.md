@@ -1,14 +1,14 @@
-# How the Lead Engine works
+# How Debnest works
 
-The full page, with a live demo, is at [debugswift.com/lead-engine](https://debugswift.com/lead-engine). This is the same information in one place.
+The full page, with a live demo, is at [debugswift.com/debnest](https://debugswift.com/debnest). This is the same information in one place.
 
 ## The problem it fixes
 
 The most expensive bug in a service business: leads that buy elsewhere because nobody replied. Say a customer messages at 9:41pm, you see it at 9:52pm, and you answer at 9am. They booked someone else, eleven minutes after asking you.
 
-The Lead Engine answers, qualifies, books and logs every enquiry, while you work, sleep or take a day off.
+Debnest's assistant, Deb, answers, qualifies, books and logs every enquiry, while you work, sleep or take a day off.
 
-![The real Lead Engine inbox with a demo dental clinic: a medicine question Deb won't answer, an emergency handed straight to a person, and "are you a bot?"](../assets/inbox.png)
+![The real Debnest inbox with a demo dental clinic: a medicine question Deb won't answer, an emergency handed straight to a person, and "are you a bot?"](../assets/inbox.png)
 
 ## Five things, done properly
 
@@ -73,4 +73,4 @@ Your WhatsApp Business account and number are in your name, on your own Meta bil
 
 ## Try it
 
-Message DebugSwift on WhatsApp from [debugswift.com/lead-engine](https://debugswift.com/lead-engine) and start a timer. The reply you get is the same engine your customers would get.
+Message DebugSwift on WhatsApp from [debugswift.com/debnest](https://debugswift.com/debnest) and start a timer. The reply you get is the same Deb your customers would get.

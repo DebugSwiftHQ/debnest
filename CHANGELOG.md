@@ -1,8 +1,11 @@
-# Lead Engine changelog
+# Debnest changelog
 
-What changed in the Lead Engine, newest first. Written from the history of its private source.
+What changed in Debnest (called the Lead Engine until 9 Oct 2026), newest first. Written from the history of its private source.
 
 ## October 2026: version 2 complete
+
+**9 Oct**
+- **A new name: Debnest.** The Lead Engine is now Debnest, and Deb is the assistant inside it. The installed app, the website page (now [debugswift.com/debnest](https://debugswift.com/debnest)) and Deb's own description of DebugSwift's work all use the new name; old links redirect.
 
 **4 Oct**
 - **Scripted mode:** automatic replies with no AI at all, for businesses that want instant answers but not an assistant.

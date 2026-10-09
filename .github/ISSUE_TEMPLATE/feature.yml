@@ -1,5 +1,5 @@
 name: Suggest a feature
-description: Something the Lead Engine should do for your business.
+description: Something Debnest should do for your business.
 labels: ["enhancement"]
 body:
   - type: markdown

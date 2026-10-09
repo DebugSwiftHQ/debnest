@@ -1,14 +1,16 @@
-# Lead Engine
+# Debnest
 
 **Every enquiry answered in 10 seconds. Even at 2am.**
 
-**Live:** https://debugswift.com/lead-engine
+**Live:** https://debugswift.com/debnest
 
-Lead Engine runs on a business's own WhatsApp Business number. It answers every enquiry straight away, asks the questions that tell you whether a lead is worth your time, and captures a booking or callback while the lead is still warm. Your team sees every conversation in one inbox, on phone and computer.
+_Called the Lead Engine until 9 Oct 2026._
 
-![The real Lead Engine inbox on a laptop, a tablet and a phone: a medicine question Deb won't answer, an emergency handed straight to a person, and "are you a bot?"](assets/inbox.png)
+Debnest is a team inbox for a business's own WhatsApp Business number, with Deb, an assistant who answers every enquiry straight away, asks the questions that tell you whether a lead is worth your time, and captures a booking or callback while the lead is still warm. Your team sees every conversation in one inbox, on phone and computer.
 
-*The real product. The clinic and its customers are a demo; every reply from Deb is the engine's own.*
+![The real Debnest inbox on a laptop, a tablet and a phone: a medicine question Deb won't answer, an emergency handed straight to a person, and "are you a bot?"](assets/inbox.png)
+
+*The real product. The clinic and its customers are a demo; every reply from Deb is her own.*
 
 ## What it does
 
@@ -38,10 +40,10 @@ Each rule is checked in code before a reply is sent. A reply that breaks one is 
 
 ## Try it
 
-Message DebugSwift on WhatsApp from [the Lead Engine page](https://debugswift.com/lead-engine) and start a timer. You'll get the same engine your customers would.
+Message DebugSwift on WhatsApp from [the Debnest page](https://debugswift.com/debnest) and start a timer. You'll get the same Deb your customers would.
 
 ## Source code
 
-Lead Engine's source is private. This repository is its public home: documentation, changelog and feature requests. Clients: please email hello@debugswift.com rather than opening a public issue, so your customers' details stay private.
+Debnest's source is private. This repository is its public home: documentation, changelog and feature requests. Clients: please email hello@debugswift.com rather than opening a public issue, so your customers' details stay private.
 
 Built by [DebugSwift](https://debugswift.com).

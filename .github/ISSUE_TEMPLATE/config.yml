@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Client support
     url: mailto:hello@debugswift.com
-    about: Already using the Lead Engine? Email us, so your customers' details stay private.
+    about: Already using Debnest? Email us, so your customers' details stay private.
   - name: See how it works
-    url: https://debugswift.com/lead-engine
+    url: https://debugswift.com/debnest
     about: What it does, what it never does, and how setup works.
